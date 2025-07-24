@@ -6,7 +6,7 @@ L-SCOPE is an interactive Grasshopper plugin designed to improve the efficiency 
 
 It guides users through a four-step workflow powered by LLMs and information gain-based analysis to automatically refine design parameter domains.
 
-## 🔧 Workflow Components
+## 🔧 Key Components
 
 ### Step 1: Setup Environment  
 Prepare a virtual environment and install required dependencies.
@@ -38,11 +38,17 @@ Zhou, Q., & Xue, F. (2025). *Automatic information gain-guided convergence for r
 ```bibtex
 @article{zhou2025igconvergence,
   title={Automatic information gain-guided convergence for refining building design parameters: Enhancing effectiveness and interpretability in simulation-based optimization},
-  author={Zhou, Qianyun and Xue, Feng},
+  author={Zhou, Qianyun and Xue, Fan},
   journal={Building and Environment},
   volume={275},
   pages={112788},
   year={2025},
   doi={10.1016/j.buildenv.2025.112788}
 }
-</details> ```
+```
+
+</details>
+
+## 📫 Contact / Issues
+
+Please open an [issue](https://github.com/Joannazhou-qianyun/L-SCOPE/issues) if you have questions or feedback.
