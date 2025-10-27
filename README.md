@@ -8,8 +8,6 @@ It guides users through a four-step workflow powered by LLMs and information gai
 
 ## Video demo
 https://youtu.be/23JVNMKlCHI 
-<img width="376" height="53" alt="image" src="https://github.com/user-attachments/assets/bda14a18-46f2-46e4-804c-ee607bca01d6" />
-
 
 ## 🔧 Key Components
 
